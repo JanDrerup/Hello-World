@@ -1,2 +1,3 @@
 # Hello-World
-Stuff I'm learning
+Learning this because I want to write code to generate math worksheets.
+
